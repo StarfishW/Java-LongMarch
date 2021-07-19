@@ -35,7 +35,7 @@
 
 
 
-> 1. **项目简介：** 本项目自 2021年 6月23 日诞生 ，旨在打造全网最详尽的学习指南
+> 1. **项目简介：** 本项目旨在打造全网最详尽的学习指南
 > 2. **转载须知：** 以下内容（除含有转载说明外）均为作者手敲，转载请注明出处哦 ~
 > 3. **关于作者：** 暂时没有哦 -->
 
@@ -54,18 +54,34 @@
 
 
 # 🚀JAVA
+  
+[Java以及开发工具的安装](environment/java-environment.md)
+
 ## 基础
+
+
+学习
+
+  1. [基础]()
+  2. [高级]()
+
+面试
 ## 集合
 ## I/O流
 ## 多线程
+多线程学习
+  1. [多线程入门]()
+  2. [了解ThreadPool]()
+  3. [JUC]()
+  4. [NIO]()
+多线程面试
 ## JVM
 <br/><br/><br/>
 
 # 🚩设计模式
   1. [7种设计原则](DesignPattern/DesignPattern.md)
-  2. [什么是设计模式]()
-  3. [深入了解23种设计模式]()
-  4. [设计模式的广泛应用(面试)]()
+  2. [23种设计模式]()
+  3. [设计模式的广泛应用(面试)]()
 <br/>
 
 # 数据库
@@ -111,3 +127,10 @@ mysql 面试
 ## 分布式理论
 ## 高可用
 ## 高并发
+
+# 领域驱动设计-DDD
+ 1. [DDD系列第一讲](https://mp.weixin.qq.com/s/kpXklmidsidZEiHNw57QAQ)
+ 2. [DDD系列第二讲](https://mp.weixin.qq.com/s/MU1rqpQ1aA1p7OtXqVVwxQ)
+ 3. [DDD系列第三讲](https://mp.weixin.qq.com/s/1bcymUcjCkOdvVygunShmw)
+ 4. [DDD系列第四讲](https://mp.weixin.qq.com/s/w1zqhWGuDPsCayiOgfxk6w)
+ 5. [DDD系列第五讲](https://mp.weixin.qq.com/s/1rdnkROdcNw5ro4ct99SqQ)
