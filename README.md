@@ -46,7 +46,7 @@
 
 
 `如果想快速学会JAVA 可跳过当前学习`
-  - [计算机组成原理]()
+  - [计算机组成原理](/Organization/organization.md)
   - [操作系统]()
   - [计算机网络]()
   - [数据结构]()
@@ -117,11 +117,17 @@ mysql 面试
 ## Shiro
 ## Auth2
 ## JWT
+
 # 🐮进阶框架
 ## Zookeeper
 ## Doubbo
 ## Netty
 ## Elastic
+
+# 消息中间件
+## RabbitMQ
+## RocketMQ
+## Kafka
 
 # 💻分布式微服务
 ## 分布式理论
@@ -129,6 +135,9 @@ mysql 面试
 ## 高并发
 
 # 领域驱动设计-DDD
+
+`在各种DDD讲解中，大部分人都是生硬的解释其中难以理解的概念，淘系技术的大神讲解是我看过最好的`
+
  1. [DDD系列第一讲](https://mp.weixin.qq.com/s/kpXklmidsidZEiHNw57QAQ)
  2. [DDD系列第二讲](https://mp.weixin.qq.com/s/MU1rqpQ1aA1p7OtXqVVwxQ)
  3. [DDD系列第三讲](https://mp.weixin.qq.com/s/1bcymUcjCkOdvVygunShmw)
