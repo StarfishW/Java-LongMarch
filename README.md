@@ -80,8 +80,21 @@
 <br/><br/><br/>
 
 # 🚩设计模式
-  1. [7种设计原则](DesignPattern/DesignPattern.md)
+  1. [7种设计原则]()
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
   2. [23种设计模式]()
+    - [策略模式，干点if ... else](https://mp.weixin.qq.com/s/VA1_dEBpWN33WorJ3jhTqw)
+    - [责任链模式-管道模式](https://mp.weixin.qq.com/s/zmFQ-Ca2eHPLXmXn2UhiAw)
+    - [代理模式，Spring 生存之本](https://mp.weixin.qq.com/s/NNdzwK7fbPLtEQGH5q876A)
+    - [模板模式](https://mp.weixin.qq.com/s/NNdzwK7fbPLtEQGH5q876A)
+    - [工厂方法模式](https://mp.weixin.qq.com/s/EQFPB6q-pBDHMb7jbC7lqQ)
+
   3. [设计模式的广泛应用(面试)]()
 <br/>
 
