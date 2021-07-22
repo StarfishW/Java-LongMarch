@@ -19,6 +19,21 @@
 ## Java下载与安装
 [Oracle Java中文官网](https://www.oracle.com/cn/java/)
 
+[Oracle Java 8 下载地址](https://www.oracle.com/cn/java/technologies/javase/javase-jdk8-downloads.html)
 
+下载对应系统的 JDK 
+例如： windows 64位 下载 jdk-**...**-windows-x64.exe
+
+一直下一步就可以了
+
+查看是否安装成功
+
+win + R 键 输入cmd 回车
+
+输入 java -verison 会显示java版本号
+
+>[!Warning]问题汇总
+>
+> 1. 如果安装多个环境可能会导致改变JAVA_HOME 之后 java -version 版本显示不对 将自己配置的path 上移到最上方
 
 ## 开发工具下载与安装
